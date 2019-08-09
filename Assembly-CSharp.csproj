@@ -69,9 +69,9 @@
     <Compile Include="Assets\My Assets\Scripts\GameObjects\DestoryGameObject.cs" />
     <Compile Include="Assets\My Assets\Scripts\GameObjects\ElevatorEnd.cs" />
     <Compile Include="Assets\My Assets\Scripts\GameObjects\ElevatorStart.cs" />
-    <Compile Include="Assets\My Assets\Scripts\Player Movement\CharacterController2D.cs" />
     <Compile Include="Assets\My Assets\Scripts\Player Movement\PlayerMovement.cs" />
-    <None Include="Assets\Other assets\Medieval_pixel_art_asset_FREE\pixel_snapping_README.txt" />
+    <Compile Include="Assets\My Assets\Scripts\Player Movement\ShaceshipMoveMent.cs" />
+    <Compile Include="Assets\My Assets\Scripts\SimpleBulletMovement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Github/CheapskateDev/Andrew Build/GMTK-game-jam/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

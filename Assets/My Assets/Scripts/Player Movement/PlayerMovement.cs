@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public CharacterController2D controller;
     public Rigidbody2D rb;
     public Animator animator;
 
@@ -45,12 +44,12 @@ public class PlayerMovement : MonoBehaviour
         // Move character
         if (canMove != false)
         {
-            controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
+            //controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
             jump = false;
         }
         else
         {
-            controller.Move( 0, false, false);
+            //controller.Move( 0, false, false);
             jump = false;
         }
         

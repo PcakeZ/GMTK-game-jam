@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 75f5eaf7bd6892342869faf1b6325a0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8727583191209789793
+    second: JEROM_spaceships0_CC-BY-3_0
+  - first:
+      213: -3422573685767952209
+    second: JEROM_spaceships0_CC-BY-3_1
+  - first:
+      213: 4613972636773589090
+    second: JEROM_spaceships0_CC-BY-3_2
+  - first:
+      213: -536366733260658354
+    second: JEROM_spaceships0_CC-BY-3_3
+  - first:
+      213: 1921469577577651767
+    second: JEROM_spaceships0_CC-BY-3_4
+  - first:
+      213: -4324885781563739131
+    second: JEROM_spaceships0_CC-BY-3_5
+  - first:
+      213: 5062408104812471663
+    second: JEROM_spaceships0_CC-BY-3_6
+  - first:
+      213: -1805228234488642642
+    second: JEROM_spaceships0_CC-BY-3_7
+  - first:
+      213: -7571841238582245549
+    second: JEROM_spaceships0_CC-BY-3_8
+  - first:
+      213: -339928309260504616
+    second: JEROM_spaceships0_CC-BY-3_9
+  - first:
+      213: 5266725491922306947
+    second: JEROM_spaceships0_CC-BY-3_10
+  - first:
+      213: 1539982233335615957
+    second: JEROM_spaceships0_CC-BY-3_11
+  - first:
+      213: -3347327423982611849
+    second: JEROM_spaceships0_CC-BY-3_12
+  - first:
+      213: -3220419871634846041
+    second: JEROM_spaceships0_CC-BY-3_13
+  - first:
+      213: 6627683301881543817
+    second: JEROM_spaceships0_CC-BY-3_14
+  - first:
+      213: 1889829754614616943
+    second: JEROM_spaceships0_CC-BY-3_15
+  - first:
+      213: -1955724653120503896
+    second: JEROM_spaceships0_CC-BY-3_16
+  - first:
+      213: 4946477593374870785
+    second: JEROM_spaceships0_CC-BY-3_17
+  - first:
+      213: -2166978157574326820
+    second: JEROM_spaceships0_CC-BY-3_18
+  - first:
+      213: -8273052975865188821
+    second: JEROM_spaceships0_CC-BY-3_19
+  - first:
+      213: -2692193384704800339
+    second: JEROM_spaceships0_CC-BY-3_20
+  - first:
+      213: 4340966837589493550
+    second: JEROM_spaceships0_CC-BY-3_21
+  - first:
+      213: -8647008219718113349
+    second: JEROM_spaceships0_CC-BY-3_22
+  - first:
+      213: -5605376978478366606
+    second: JEROM_spaceships0_CC-BY-3_23
+  - first:
+      213: -4159289627114160813
+    second: JEROM_spaceships0_CC-BY-3_24
+  - first:
+      213: -2282419690608445937
+    second: JEROM_spaceships0_CC-BY-3_25
+  - first:
+      213: 1681268809505568112
+    second: JEROM_spaceships0_CC-BY-3_26
+  - first:
+      213: 9018252150319145945
+    second: JEROM_spaceships0_CC-BY-3_27
+  - first:
+      213: 8156468904249763260
+    second: JEROM_spaceships0_CC-BY-3_28
+  - first:
+      213: 628695873851750586
+    second: JEROM_spaceships0_CC-BY-3_29
+  - first:
+      213: -8276866514233417189
+    second: JEROM_spaceships0_CC-BY-3_30
+  - first:
+      213: -8321770105378326837
+    second: JEROM_spaceships0_CC-BY-3_31
+  - first:
+      213: 7096001485857032900
+    second: JEROM_spaceships0_CC-BY-3_32
+  - first:
+      213: 8510765552018323524
+    second: JEROM_spaceships0_CC-BY-3_33
+  - first:
+      213: 8565125842652662679
+    second: JEROM_spaceships0_CC-BY-3_34
+  - first:
+      213: 6553451041046420003
+    second: JEROM_spaceships0_CC-BY-3_35
+  - first:
+      213: 8019201486451609582
+    second: JEROM_spaceships0_CC-BY-3_36
+  - first:
+      213: -6467662671734233890
+    second: JEROM_spaceships0_CC-BY-3_37
+  - first:
+      213: 3125094303854323705
+    second: JEROM_spaceships0_CC-BY-3_38
+  - first:
+      213: 8874745412678566143
+    second: JEROM_spaceships0_CC-BY-3_39
+  - first:
+      213: 8004406278300783116
+    second: JEROM_spaceships0_CC-BY-3_40
+  - first:
+      213: -4365003084756760033
+    second: JEROM_spaceships0_CC-BY-3_41
+  - first:
+      213: 6487339079530502672
+    second: JEROM_spaceships0_CC-BY-3_42
+  - first:
+      213: 1146788364109582686
+    second: JEROM_spaceships0_CC-BY-3_43
+  - first:
+      213: -7383550345109863654
+    second: JEROM_spaceships0_CC-BY-3_44
+  - first:
+      213: 1934699861601343174
+    second: JEROM_spaceships0_CC-BY-3_45
+  - first:
+      213: 2865961407603447141
+    second: JEROM_spaceships0_CC-BY-3_46
+  - first:
+      213: -8373040954916508356
+    second: JEROM_spaceships0_CC-BY-3_47
+  - first:
+      213: 8421709580485772679
+    second: JEROM_spaceships0_CC-BY-3_48
+  - first:
+      213: 6726876892005249381
+    second: JEROM_spaceships0_CC-BY-3_49
+  - first:
+      213: -913781715473990084
+    second: JEROM_spaceships0_CC-BY-3_50
+  - first:
+      213: -3303814867129308751
+    second: JEROM_spaceships0_CC-BY-3_51
+  - first:
+      213: -61949431456387458
+    second: JEROM_spaceships0_CC-BY-3_52
+  - first:
+      213: -3916226860069931365
+    second: JEROM_spaceships0_CC-BY-3_53
+  - first:
+      213: 1020085428060549643
+    second: JEROM_spaceships0_CC-BY-3_54
+  - first:
+      213: -8578210887274996995
+    second: JEROM_spaceships0_CC-BY-3_55
+  - first:
+      213: 4799897692321972443
+    second: JEROM_spaceships0_CC-BY-3_56
+  - first:
+      213: -313080988531143654
+    second: JEROM_spaceships0_CC-BY-3_57
+  - first:
+      213: 7002716565303519516
+    second: JEROM_spaceships0_CC-BY-3_58
+  - first:
+      213: 6414979736450794354
+    second: JEROM_spaceships0_CC-BY-3_59
+  - first:
+      213: -3632451949290701393
+    second: JEROM_spaceships0_CC-BY-3_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 416
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9599c899f43e2444b031c999f892a77
+      internalID: -8727583191209789793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 412
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a4b1ad211b6c44a896477294fb85f
+      internalID: -3422573685767952209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 412
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbaa34b64964940bad01cd115af7ea
+      internalID: 4613972636773589090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 388
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31289b7380600ee48be8388feea26319
+      internalID: -536366733260658354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 380
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05b4242c643094983f269ee4b1cd0b
+      internalID: 1921469577577651767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 412
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1075de56befa15448e55bab5a8e2458
+      internalID: -4324885781563739131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 412
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373c84ec75f66147920f3a8877931f0
+      internalID: 5062408104812471663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 413
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a07823ff3b59e49896f5335f21c456
+      internalID: -1805228234488642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 412
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338f92b63ae47646933d9ec4057b817
+      internalID: -7571841238582245549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 412
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8954966656ec45963a1eb485fc857
+      internalID: -339928309260504616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 404
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbef5c1722ba0499a03d6de1b2b3a9
+      internalID: 5266725491922306947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171517d91bddec84ca838be52e80ce43
+      internalID: 1539982233335615957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 388
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51df4f5fa0f24349a7628f555d28a24
+      internalID: -3347327423982611849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 388
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde079e198bfef4f832ed60ae79e96d
+      internalID: -3220419871634846041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc348fdd4d5c10408e108b28059b0ec
+      internalID: 6627683301881543817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e37b6982d2e564f865e2d0b81c94e4
+      internalID: 1889829754614616943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 325
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f663fea4e9a6564c91cb42427f201fb
+      internalID: -1955724653120503896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 356
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665f48633fad5e46ab01cf2dc986fb4
+      internalID: 4946477593374870785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 376
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a6a067d0edae4baffaac65ff266c4
+      internalID: -2166978157574326820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 344
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18601a86672531488750cb2052213ee
+      internalID: -8273052975865188821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 344
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b448637fcb5ad446b4100e06146cc3e
+      internalID: -2692193384704800339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 344
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513cb4ccd32e73458ca53a3427329b4
+      internalID: 4340966837589493550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 344
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8d8d918fc11f40a1d6d1a70ecab43
+      internalID: -8647008219718113349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086ac2495a78704b83e99fe151962ea
+      internalID: -5605376978478366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 292
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7e8089fed781419e5238d0a04b071
+      internalID: -4159289627114160813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe8d7b05171f246b3613884e1f05e3
+      internalID: -2282419690608445937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 325
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c528360b06b377946ac0d6a3d2cb3366
+      internalID: 1681268809505568112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 356
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c1c9e62349fd41994af4529552a14
+      internalID: 9018252150319145945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_28
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9370decc03b601e4198f0f06841fdd5a
+      internalID: 8156468904249763260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 300
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a45b9e8cf40941ad781288a2435c3
+      internalID: 628695873851750586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 300
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfeaf90e2fcdaa43bc07710cfd33fee
+      internalID: -8276866514233417189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77095fb07f6e884eb3f71b2fad3afa6
+      internalID: -8321770105378326837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 292
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccfd6242e177c24aa51d9facb5daf4e
+      internalID: 7096001485857032900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 292
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02bda5fe66740946abb4ea149f8a809
+      internalID: 8510765552018323524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39cb2aef8d750b47b58e6d1d8331805
+      internalID: 8565125842652662679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6f1055309267d47b172d9c8d97bf5e
+      internalID: 6553451041046420003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 292
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4267cbc40b997c4e82dd215ef6de2a4
+      internalID: 8019201486451609582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 292
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216af3dfd537950438e12f512dae29ae
+      internalID: -6467662671734233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 252
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e685efcb0f294f80c92ab14b7000b
+      internalID: 3125094303854323705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7f03542b63bd4ab7e689b88bf5b11
+      internalID: 8874745412678566143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 146
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c136452a36675449752f03f41096c4
+      internalID: 8004406278300783116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 230
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69d2b5ca93c5440bf2e255129c4e1e
+      internalID: -4365003084756760033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 230
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f35e9244ecf5b4db57d9a12f5a6d3e
+      internalID: 6487339079530502672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4696166da3f7a4082e15bc37212ab4
+      internalID: 1146788364109582686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d655316154224bb8ef69d21a763a0
+      internalID: -7383550345109863654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 196
+        width: 142
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de27c69f13376f547a70731462cbb04d
+      internalID: 1934699861601343174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 185
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b250dab72583344a33da86c651c904
+      internalID: 2865961407603447141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bef732cd80cdb4581af0d4343cc9d7
+      internalID: -8373040954916508356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1058f5b4b6d33844ae9e661ed92e8a0
+      internalID: 8421709580485772679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb57e1d3df27a045a4c015f3ed7e0f7
+      internalID: 6726876892005249381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 146
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595680c9c291fa4c86af68a7ec882e9
+      internalID: -913781715473990084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0bd2364f87c249ae76c52355b762c
+      internalID: -3303814867129308751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb3252861d13a4f8faffe9c80fb7f8
+      internalID: -61949431456387458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72997cd0c201d443b2678ce914f07d0
+      internalID: -3916226860069931365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effcd0a6db3b66409ea875e83cd4541
+      internalID: 1020085428060549643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84c042a602e14479e9cc90dd598d86
+      internalID: -8578210887274996995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 40
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1baf68530f0343ae0aee6f3cdea42
+      internalID: 4799897692321972443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 40
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b277700535f90543b7d3d62a7f2f744
+      internalID: -313080988531143654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb59263557f71428ea321380117f68
+      internalID: 7002716565303519516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1c81ed762f1a49a7864ce2e8bf800
+      internalID: 6414979736450794354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEROM_spaceships0_CC-BY-3_60
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff35b9e7179b84690620e9bc447200
+      internalID: -3632451949290701393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -117,7 +117,7 @@ public class DashCannon : MonoBehaviour
 
         if (canDash == true)
         {
-            player.GetComponent<PlayerMovement>().controller.Move(0, false, false);
+            //player.GetComponent<PlayerMovement>().(0, false, false);
         }
     }
 }
